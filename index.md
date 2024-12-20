@@ -14,4 +14,4 @@ You can find  IE582 Fall-24 homeworks here.
 ### HW2
 [HW2 Codes](https://github.com/BU-IE-582/fall-24-SudeSahinnn/blob/main/IE.582_HW2_Codes_Sude%C5%9Eahin.py)
 
-[HW2 Report](https://github.com/BU-IE-582/fall-24-SudeSahinnn/blob/main/IE.582_HW2_Report_Sude%C5%9Eahin.html)
+[HW2 Report](https://bu-ie-582.github.io/fall-24-SudeSahinnn/IE.582_HW2_Report_Sude%C5%9Eahin.html)
