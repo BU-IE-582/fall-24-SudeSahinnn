@@ -16,4 +16,4 @@ You can find  IE582 Fall-24 homeworks here.
 
 [HW2 Report](https://github.com/BU-IE-582/fall-24-SudeSahinnn/blob/main/IE.582_HW2_Report_Sude%C5%9Eahin.html)
 
-
+[HW2 Reportt]("C:\Users\sudes\OneDrive\Documents\GitHub\fall-24-SudeSahinnn\IE.582_HW2_Report_SudeŞahin.html")
